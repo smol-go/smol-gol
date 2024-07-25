@@ -1,0 +1,1 @@
+conway's game of life from scratch in go
